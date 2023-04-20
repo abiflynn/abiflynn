@@ -2,6 +2,8 @@
 
 ### 📌 About Me 
 
+- x
+
 
 ### 📁 Portfolio Projects
 
@@ -15,3 +17,7 @@
 - Data Analysis(Python): Is it Beneficial to Discount Products?
 - Data Analysis(SQL): Should Eniac Sign the 3-Year Contract to Expand into the Brazilian Market
 - Introduction to Pandas 
+
+### Technical Skills 
+
+- x
