@@ -1,3 +1,7 @@
+## Hi there 👋
+
+I'm Abigail!
+
 ## 📌 About Me 
 
 - An accomplished analyst and merchandiser seeking to transition my career to a **data science** role. With four years of experience as a Merchandiser at retail giant Next, I have enhanced my numerical and analytical skills and developed strong communication, teamwork, and management skills.
