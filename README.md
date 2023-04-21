@@ -1,4 +1,4 @@
-### 📌 About Me 
+## 📌 About Me 
 
 - An accomplished analyst and merchandiser seeking to transition my career to a **data science** role. With four years of experience as a Merchandiser at retail giant Next, I have enhanced my numerical and analytical skills and developed strong communication, teamwork, and management skills.
 
@@ -6,9 +6,7 @@
 
 - I am passionate about using data analysis to influence business decisions and drive growth and profitability. To further develop my skills in this area, I recently completed the Data Science Bootcamp at the WBS Coding School. Through this program, I gained a comprehensive understanding of the data science field and developed a range of technical skills, including SQL, Python, Machine Learning, Cloud Computing, Automation, Tableau, and A/B Testing.
 
-- As a quick learner who enjoys embracing new challenges, I am excited about the next steps in my career and look forward to developing my skills further to make a valuable contribution and help drive growth and success.
-
-### 📁 Portfolio Projects
+## 📁 Portfolio Projects
 
 - [BeautyBOT](https://github.com/abiflynn/BeautyBOT): Beauty Recommender System in a Streamlit App 
 - [Movie Recommender System](https://github.com/abiflynn/movie_recommender_system)
@@ -21,7 +19,7 @@
 - [Data Analysis(SQL)](https://github.com/abiflynn/data_analysis_SQL): Should Eniac Sign the 3-Year Contract to Expand into the Brazilian Market
 - [Introduction to Pandas](https://github.com/abiflynn/python_pandas)
 
-### 📈 Technical Skills 
+## 📈 Technical Skills 
 
 - SQL | Query and Data Modeling
 - Python | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
