@@ -21,7 +21,7 @@
 
 ## 📈 Technical Skills 
 
-- SQL | Query and Data Modeling
+- SQL | Query and Data Modelling
 - Python | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
 - Machine Learning | Scikit-Learn
 - Data Engineering | Web Scraping, API Pipelines, AWS Cloud Computing
